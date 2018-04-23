@@ -24,7 +24,7 @@ public class NetThreadClient implements Runnable {
 		t.start();
 	}
 	/**
-	 * Run method that has reads and writes objects from and to the server.
+	 * Run method that has read and write objects from and to the server.
 	 * 
 	 */
 	@Override
